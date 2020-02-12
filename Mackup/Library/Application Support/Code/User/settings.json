@@ -1,0 +1,58 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.fontFamily": "'Fira Code', 'Source Code Pro', Monaco, ‘Courier New’, monospace",
+  "ruby.lint": {
+    // "reek": true,
+    "rubocop": true
+    // "fasterer": true,
+    // "debride": true,
+    // "ruby-lint": true
+  },
+  "editor.fontSize": 14,
+  "files.autoSave": "onFocusChange",
+  "editor.renderWhitespace": "boundary",
+  "editor.renderIndentGuides": false,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "material-icon-theme",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.minimap.enabled": false,
+  "editor.largeFileOptimizations": false,
+  "[json]": {},
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "codestream.email": "wellsonjain@gmail.com",
+  "zenMode.centerLayout": false,
+  "ruby.intellisense": "rubyLocate",
+  "workbench.startupEditor": "newUntitledFile",
+  "prettier.useTabs": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.panel.defaultLocation": "right",
+  "editor.wordWrap": "on",
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "terminal.explorerKind": "external",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "500",
+  "workbench.colorTheme": "Community Material Theme Palenight",
+  "sync.gist": "a452f4c144b195e185fc7e910a242e34",
+  // "vetur.validation.template": false,
+  // "eslint.validate": [
+  //   {
+  //     "language": "vue",
+  //     "autoFix": true
+  //   },
+  //   {
+  //     "language": "html",
+  //     "autoFix": true
+  //   },
+  //   {
+  //     "language": "javascript",
+  //     "autoFix": true
+  //   }
+  // ]
+  // "eslint.autoFixOnSave": true,
+  // "editor.formatOnSave": true
+}
